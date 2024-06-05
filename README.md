@@ -1,4 +1,4 @@
-# TF2 Item Attributem List
+# TF2 Item Attribute List
 
 A collaborative effort to document every attribute that exists in TF2 for use in my [TF2 Custom Weapon Creator app](https://gamepro5.com/programs/tf2_custom_weapon_creator/).
 
